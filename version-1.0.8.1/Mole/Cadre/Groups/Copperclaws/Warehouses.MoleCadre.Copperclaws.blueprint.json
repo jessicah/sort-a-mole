@@ -1,5 +1,5 @@
 {
-  "BlockObjectToolGroupSpec": { "Id": "Depos.MoleCadre.Copperclaws", "Order": 1519000, "NameLocKey": "Group.Depos", "Icon": "Mole/Cadre/Depos", "FallbackGroup": false },
+  "BlockObjectToolGroupSpec": { "Id": "Warehouses.MoleCadre.Copperclaws", "Order": 1519000, "NameLocKey": "Group.Warehouses", "Icon": "Mole/Cadre/Warehouses", "FallbackGroup": false },
   "ToolGroupChildrenSpec":
   {
     "DoNotIncludePlaceableToolGroup": true,

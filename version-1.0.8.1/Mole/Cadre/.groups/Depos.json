@@ -1,6 +1,6 @@
 #include <defines.h>
 {
-  TOGROUP(19000,Depos),
+  TOGROUP(19000,Warehouses),
   "ToolGroupChildrenSpec":
   {
     "DoNotIncludePlaceableToolGroup": true,
