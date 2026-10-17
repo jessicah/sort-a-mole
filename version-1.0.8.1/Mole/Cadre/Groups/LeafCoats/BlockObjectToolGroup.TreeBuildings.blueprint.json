@@ -1,0 +1,63 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "TreeBuildings.LeafCoats",
+    "Order": 6,
+    "NameLocKey": "ToolGroups.TreeBuildings",
+    "Icon": "Sprites/BottomBar/BuildingGroups/TreeBuildings",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Branch.Bridge.Stairs.LeafCoats",
+    "Branch.Bridge1x1.LeafCoats",
+    "Branch.Bridge2x1.LeafCoats",
+    "Branch.Bridge3x1.LeafCoats",
+    "Branch.Bridge4x1.LeafCoats",
+    "Branch.Bridge5x1.LeafCoats",
+    "Branch.Bridge6x1.LeafCoats",
+    "Branch.LeafCoats",
+    "BranchPlatform.Double.LeafCoats",
+    "BranchPlatform.LeafCoats",
+    "TreeTrunk.Corner.LeafCoats",
+    "TreeTrunk.Overhang1x2.Corner.LeafCoats",
+    "TreeTrunk.Overhang1x2.LeafCoats",
+    "TreeTrunk.Overhang1x3.Corner.LeafCoats",
+    "TreeTrunk.Overhang1x3.LeafCoats",
+    "TreeTrunk.Overhang2x2.Corner.LeafCoats",
+    "TreeTrunk.Overhang2x3.Corner.LeafCoats",
+    "TreeTrunk.Overhang3x3.Corner.LeafCoats",
+    "TreeTrunk.Side.Branch.LeafCoats",
+    "TreeTrunk.Side.LeafCoats",
+    "BranchPlatform.Double.LeafCoats",
+    "BranchPlatform.LeafCoats",
+    "Branch.Bridge.Stairs.LeafCoats",
+    "Branch.Bridge1x1.LeafCoats",
+    "Branch.Bridge2x1.LeafCoats",
+    "Branch.Bridge3x1.LeafCoats",
+    "Branch.Bridge4x1.LeafCoats",
+    "Branch.Bridge5x1.LeafCoats",
+    "Branch.Bridge6x1.LeafCoats",
+    "Branch.LeafCoats",
+    "TreeTrunk.Overhang1x2.Corner.LeafCoats",
+    "TreeTrunk.Overhang1x2.LeafCoats",
+    "TreeTrunk.Overhang1x3.Corner.LeafCoats",
+    "TreeTrunk.Overhang1x3.LeafCoats",
+    "TreeTrunk.Overhang2x2.Corner.LeafCoats",
+    "TreeTrunk.Overhang2x3.Corner.LeafCoats",
+    "TreeTrunk.Overhang3x3.Corner.LeafCoats",
+    "TreeTrunk.Corner.LeafCoats",
+    "TreeTrunk.Side.Branch.LeafCoats",
+    "TreeTrunk.Side.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

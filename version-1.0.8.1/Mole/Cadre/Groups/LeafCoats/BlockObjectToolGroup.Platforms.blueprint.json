@@ -1,0 +1,49 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Platforms.LeafCoats",
+    "Order": 3,
+    "NameLocKey": "ToolGroups.Platforms",
+    "Icon": "Buildings/Paths/Platform/PlatformIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "DoublePlatform.LeafCoats",
+    "MetalPlatform3x3.Ladder.LeafCoats",
+    "MetalPlatform3x3.LeafCoats",
+    "MetalPlatform5x5.Ladder.LeafCoats",
+    "MetalPlatform5x5.LeafCoats",
+    "Overhang1x1.LeafCoats",
+    "Overhang2x1.LeafCoats",
+    "Overhang3x1.LeafCoats",
+    "Overhang4x1.LeafCoats",
+    "Overhang5x1.LeafCoats",
+    "Overhang6x1.LeafCoats",
+    "Platform.LeafCoats",
+    "TriplePlatform.LeafCoats",
+    "MetalPlatform3x3.Ladder.LeafCoats",
+    "MetalPlatform3x3.LeafCoats",
+    "MetalPlatform5x5.Ladder.LeafCoats",
+    "MetalPlatform5x5.LeafCoats",
+    "Overhang1x1.LeafCoats",
+    "Overhang2x1.LeafCoats",
+    "Overhang3x1.LeafCoats",
+    "Overhang4x1.LeafCoats",
+    "Overhang5x1.LeafCoats",
+    "Overhang6x1.LeafCoats",
+    "DoublePlatform.LeafCoats",
+    "Platform.LeafCoats",
+    "TriplePlatform.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

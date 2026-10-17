@@ -1,0 +1,31 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Housing.LeafCoats",
+    "Order": 40,
+    "NameLocKey": "ToolGroups.Housing",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Housing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "HousingUnit.Double.LeafCoats",
+    "HousingUnit.LeafCoats",
+    "HousingUnit.Medium.LeafCoats",
+    "HousingUnit.Small.LeafCoats",
+    "HousingUnit.Double.LeafCoats",
+    "HousingUnit.LeafCoats",
+    "HousingUnit.Medium.LeafCoats",
+    "HousingUnit.Small.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

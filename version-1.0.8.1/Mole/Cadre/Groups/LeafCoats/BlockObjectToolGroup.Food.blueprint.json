@@ -1,0 +1,33 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Food.LeafCoats",
+    "Order": 50,
+    "NameLocKey": "ToolGroups.Food",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Food",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Beehive.LeafCoats",
+    "Fermenter.LeafCoats",
+    "FoodProcessor.LeafCoats",
+    "GathererFlag.LeafCoats",
+    "GathererHut.LeafCoats",
+    "Beehive.LeafCoats",
+    "Fermenter.LeafCoats",
+    "FoodProcessor.LeafCoats",
+    "GathererFlag.LeafCoats",
+    "GathererHut.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

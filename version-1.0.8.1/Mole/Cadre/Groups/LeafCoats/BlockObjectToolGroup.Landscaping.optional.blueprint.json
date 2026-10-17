@@ -1,0 +1,48 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Landscaping.LeafCoats",
+    "Order": 10
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "ContaminationBarrier.LeafCoats",
+    "DirtExcavator.LeafCoats",
+    "DoubleDynamite.LeafCoats",
+    "Dynamite.LeafCoats",
+    "ExplosivesFactory.LeafCoats",
+    "ImpermeableFloor.LeafCoats",
+    "LeveeTunnel.LeafCoats",
+    "LooseDirt.LeafCoats",
+    "LoosenDirt.LeafCoats",
+    "RemoveDirt.LeafCoats",
+    "TerrainBlock.LeafCoats",
+    "ToolFactory.LeafCoats",
+    "TripleDynamite.LeafCoats",
+    "Tunnel.LeafCoats",
+    "LeveeTunnel.LeafCoats",
+    "DoubleDynamite.LeafCoats",
+    "Dynamite.LeafCoats",
+    "TripleDynamite.LeafCoats",
+    "ContaminationBarrier.LeafCoats",
+    "DirtExcavator.LeafCoats",
+    "ExplosivesFactory.LeafCoats",
+    "ImpermeableFloor.LeafCoats",
+    "LooseDirt.LeafCoats",
+    "LoosenDirt.LeafCoats",
+    "RemoveDirt.LeafCoats",
+    "TerrainBlock.LeafCoats",
+    "ToolFactory.LeafCoats",
+    "Tunnel.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

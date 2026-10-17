@@ -1,0 +1,45 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Industry.LeafCoats",
+    "Order": 68,
+    "NameLocKey": "ToolGroups.Industry",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Industry",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Forester.LeafCoats",
+    "GearWorkshop.LeafCoats",
+    "LumberjackFlag.LeafCoats",
+    "LumberMill.LeafCoats",
+    "LumberPress.LeafCoats",
+    "Mine.LeafCoats",
+    "PruningFlag.LeafCoats",
+    "ScavengerFlag.LeafCoats",
+    "Shredder.LeafCoats",
+    "TappersShack.LeafCoats",
+    "WoodWorkshop.LeafCoats",
+    "Mine.LeafCoats",
+    "ScavengerFlag.LeafCoats",
+    "Shredder.LeafCoats",
+    "Forester.LeafCoats",
+    "GearWorkshop.LeafCoats",
+    "LumberjackFlag.LeafCoats",
+    "LumberMill.LeafCoats",
+    "LumberPress.LeafCoats",
+    "PruningFlag.LeafCoats",
+    "TappersShack.LeafCoats",
+    "WoodWorkshop.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

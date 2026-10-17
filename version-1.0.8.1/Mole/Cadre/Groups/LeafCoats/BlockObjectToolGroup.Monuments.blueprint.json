@@ -1,0 +1,35 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Monuments.LeafCoats",
+    "Order": 120,
+    "NameLocKey": "ToolGroups.Monuments",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Monuments",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "FountainOfJoy.LeafCoats",
+    "HallOfAbundance.LeafCoats",
+    "LaborerMonument.LeafCoats",
+    "TributeToIngenuity.LeafCoats",
+    "Wonder.LeafCoats",
+    "Wonder.LeafCoats",
+    "FountainOfJoy.LeafCoats",
+    "HallOfAbundance.LeafCoats",
+    "LaborerMonument.LeafCoats",
+    "TributeToIngenuity.LeafCoats",
+
+	  "TreeOfLife.PlantingSite.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

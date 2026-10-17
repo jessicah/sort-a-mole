@@ -1,0 +1,43 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Science.LeafCoats",
+    "Order": 80,
+    "NameLocKey": "ToolGroups.Science",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Science",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BotAssembler.LeafCoats",
+    "BotPartFactory.LeafCoats",
+    "ChargingStation.LeafCoats",
+    "ChargingStation.Tree.LeafCoats",
+    "ControlTower.LeafCoats",
+    "GeothermalNumbercruncher.LeafCoats",
+    "Inventor.LeafCoats",
+    "Inventor2.LeafCoats",
+    "Observatory.LeafCoats",
+    "Refinery.LeafCoats",
+    "BotAssembler.LeafCoats",
+    "BotPartFactory.LeafCoats",
+    "ChargingStation.LeafCoats",
+    "ChargingStation.Tree.LeafCoats",
+    "ControlTower.LeafCoats",
+    "GeothermalNumbercruncher.LeafCoats",
+    "Inventor.LeafCoats",
+    "Inventor2.LeafCoats",
+    "Observatory.LeafCoats",
+    "Refinery.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

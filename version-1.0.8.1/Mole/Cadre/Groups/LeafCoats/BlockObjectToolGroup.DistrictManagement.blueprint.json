@@ -1,0 +1,33 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "DistrictManagement.LeafCoats",
+    "Order": 30,
+    "NameLocKey": "ToolGroups.DistrictManagement",
+    "Icon": "Sprites/BottomBar/BuildingGroups/DistrictManagement",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BuildersHut.LeafCoats",
+    "DistrictCenter.LeafCoats",
+    "DistrictCrossing.LeafCoats",
+    "DistrictGate.LeafCoats",
+    "HaulingPost.LeafCoats",
+    "BuildersHut.LeafCoats",
+    "DistrictCenter.LeafCoats",
+    "DistrictCrossing.LeafCoats",
+    "DistrictGate.LeafCoats",
+    "HaulingPost.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Storage.LeafCoats",
+    "Order": 20,
+    "NameLocKey": "ToolGroups.Storage",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Storage",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "LargePile.LeafCoats",
+    "LargeTank.LeafCoats",
+    "LargeWarehouse.LeafCoats",
+    "MediumPile.LeafCoats",
+    "MediumTank.LeafCoats",
+    "MediumWarehouse.LeafCoats",
+    "Pile.LeafCoats",
+    "SmallPile.LeafCoats",
+    "SmallTank.LeafCoats",
+    "SmallWarehouse.LeafCoats",
+    "Warehouse.LeafCoats",
+    "LargePile.LeafCoats",
+    "LargeTank.LeafCoats",
+    "LargeWarehouse.LeafCoats",
+    "MediumPile.LeafCoats",
+    "MediumTank.LeafCoats",
+    "MediumWarehouse.LeafCoats",
+    "Pile.LeafCoats",
+    "SmallPile.LeafCoats",
+    "SmallTank.LeafCoats",
+    "SmallWarehouse.LeafCoats",
+    "Warehouse.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

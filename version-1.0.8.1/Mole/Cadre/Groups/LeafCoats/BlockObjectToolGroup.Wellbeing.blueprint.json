@@ -1,0 +1,59 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wellbeing.LeafCoats",
+    "Order": 100,
+    "NameLocKey": "Wellbeing.DisplayName",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wellbeing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Carousel.LeafCoats",
+    "ContemplationSpot.Branch.LeafCoats",
+    "ContemplationSpot.LeafCoats",
+    "DancePit.LeafCoats",
+    "Detailer.LeafCoats",
+    "DomedGarden.LeafCoats",
+    "Garden.LeafCoats",
+    "Herbalist.LeafCoats",
+    "Hospital.LeafCoats",
+    "MedicalBed.LeafCoats",
+    "MedicalTripleBed.LeafCoats",
+    "MudPit.LeafCoats",
+    "ObservationTerrace.LeafCoats",
+    "Plaza.LeafCoats",
+    "Shower.LeafCoats",
+    "SwimmingPool.LeafCoats",
+    "TeethGrindstone.LeafCoats",
+    "WindTunnel.LeafCoats",
+    "Carousel.LeafCoats",
+    "ContemplationSpot.Branch.LeafCoats",
+    "ContemplationSpot.LeafCoats",
+    "DancePit.LeafCoats",
+    "Detailer.LeafCoats",
+    "DomedGarden.LeafCoats",
+    "Garden.LeafCoats",
+    "Herbalist.LeafCoats",
+    "Hospital.LeafCoats",
+    "MedicalBed.LeafCoats",
+    "MedicalTripleBed.LeafCoats",
+    "MudPit.LeafCoats",
+    "ObservationTerrace.LeafCoats",
+    "Plaza.LeafCoats",
+    "Shower.LeafCoats",
+    "SwimmingPool.LeafCoats",
+    "TeethGrindstone.LeafCoats",
+    "WindTunnel.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

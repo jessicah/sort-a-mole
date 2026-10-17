@@ -1,0 +1,57 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Power.LeafCoats",
+    "Order": 70,
+    "NameLocKey": "ToolGroups.Power",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Power",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Clutch.LeafCoats",
+    "GeothermalEngine.LeafCoats",
+    "GravityBattery.LeafCoats",
+    "GravityBattery.TreeTrunk.LeafCoats",
+    "GravityBattery.TreeTrunk2.LeafCoats",
+    "LargeWindmill.LeafCoats",
+    "PowerDam.LeafCoats",
+    "PowerLevee.LeafCoats",
+    "PowerLeveeTunnel.LeafCoats",
+    "PowerShaft.LeafCoats",
+    "PowerTreadmill.LeafCoats",
+    "VerticalPowerShaft.LeafCoats",
+    "VerticalPowerShaftTunnel.LeafCoats",
+    "WaterWheel.LeafCoats",
+    "WindTurbine.LeafCoats",
+    "WindTurbine.TreeTop.LeafCoats",
+    "WindTurbine.TreeTrunk.LeafCoats",
+    "Clutch.LeafCoats",
+    "PowerShaft.LeafCoats",
+    "VerticalPowerShaft.LeafCoats",
+    "VerticalPowerShaftTunnel.LeafCoats",
+    "GeothermalEngine.LeafCoats",
+    "GravityBattery.LeafCoats",
+    "GravityBattery.TreeTrunk.LeafCoats",
+    "GravityBattery.TreeTrunk2.LeafCoats",
+    "LargeWindmill.LeafCoats",
+    "PowerDam.LeafCoats",
+    "PowerLevee.LeafCoats",
+    "PowerLeveeTunnel.LeafCoats",
+    "PowerTreadmill.LeafCoats",
+    "WaterWheel.LeafCoats",
+    "WindTurbine.LeafCoats",
+    "WindTurbine.TreeTop.LeafCoats",
+    "WindTurbine.TreeTrunk.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

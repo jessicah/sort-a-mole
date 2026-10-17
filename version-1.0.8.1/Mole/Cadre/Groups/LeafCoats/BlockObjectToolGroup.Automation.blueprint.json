@@ -1,0 +1,61 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Automation.LeafCoats",
+    "Order": 90,
+    "NameLocKey": "Automation.Automation",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Automation",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Chronometer.LeafCoats",
+    "ContaminationSensor.LeafCoats",
+    "DepthSensor.LeafCoats",
+    "Detonator.LeafCoats",
+    "FireworkLauncher.LeafCoats",
+    "FlowSensor.LeafCoats",
+    "HttpAdapter.LeafCoats",
+    "HttpLever.LeafCoats",
+    "Indicator.LeafCoats",
+    "Lever.LeafCoats",
+    "Memory.LeafCoats",
+    "PopulationCounter.LeafCoats",
+    "PowerMeter.LeafCoats",
+    "Relay.LeafCoats",
+    "ResourceCounter.LeafCoats",
+    "ScienceCounter.LeafCoats",
+    "Speaker.LeafCoats",
+    "Timer.LeafCoats",
+    "WeatherStation.LeafCoats",
+    "Detonator.LeafCoats",
+    "FireworkLauncher.LeafCoats",
+    "Chronometer.LeafCoats",
+    "ContaminationSensor.LeafCoats",
+    "DepthSensor.LeafCoats",
+    "FlowSensor.LeafCoats",
+    "HttpAdapter.LeafCoats",
+    "HttpLever.LeafCoats",
+    "Indicator.LeafCoats",
+    "Lever.LeafCoats",
+    "Memory.LeafCoats",
+    "PopulationCounter.LeafCoats",
+    "PowerMeter.LeafCoats",
+    "Relay.LeafCoats",
+    "ResourceCounter.LeafCoats",
+    "ScienceCounter.LeafCoats",
+    "Speaker.LeafCoats",
+    "Timer.LeafCoats",
+    "WeatherStation.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

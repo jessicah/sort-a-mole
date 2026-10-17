@@ -1,0 +1,47 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Water.LeafCoats",
+    "Order": 45,
+    "NameLocKey": "ToolGroups.Water",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Water",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.LeafCoats"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "AquiferDrill.LeafCoats",
+    "BadwaterDome.LeafCoats",
+    "BadwaterPump.LeafCoats",
+    "BadwaterRig.LeafCoats",
+    "BadwaterSeepRig.LeafCoats",
+    "Centrifuge.LeafCoats",
+    "CompactMechanicalPump.LeafCoats",
+    "Discharge.LeafCoats",
+    "LargeWaterPump.LeafCoats",
+    "MechanicalPump.LeafCoats",
+    "SeepCover.LeafCoats",
+    "WaterPump.LeafCoats",
+    "AquiferDrill.LeafCoats",
+    "BadwaterDome.LeafCoats",
+    "BadwaterPump.LeafCoats",
+    "BadwaterRig.LeafCoats",
+    "BadwaterSeepRig.LeafCoats",
+    "Centrifuge.LeafCoats",
+    "CompactMechanicalPump.LeafCoats",
+    "Discharge.LeafCoats",
+    "LargeWaterPump.LeafCoats",
+    "MechanicalPump.LeafCoats",
+    "SeepCover.LeafCoats",
+    "WaterPump.LeafCoats"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}
