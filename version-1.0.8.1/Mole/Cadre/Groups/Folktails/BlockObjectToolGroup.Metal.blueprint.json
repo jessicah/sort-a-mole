@@ -16,7 +16,8 @@
     [
    "Mine.Folktails",
     "ScavengerFlag.Folktails",
-    "Smelter.Folktails"
+    "Smelter.Folktails",
+	"Metalsmith.Folktails"
     ],
     "ChildrenOrderedIds":
     [

@@ -14,8 +14,10 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
+    "Airlock.IronTeeth",
     "DoublePlatform.IronTeeth",
     "Gate.IronTeeth",
+    "ImpermeableTubeway.IronTeeth",
     "MetalPlatform3x3.IronTeeth",
     "MetalPlatform5x5.IronTeeth",
     "Overhang2x1.IronTeeth",

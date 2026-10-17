@@ -14,17 +14,19 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
-     "Agora.Folktails",
+    "Agora.Folktails",
     "Campfire.Folktails",
     "Carousel.Folktails",
     "ContemplationSpot.Folktails",
     "DanceHall.Folktails",
     "Detailer.Folktails",
+    "DomedGarden.Folktails",
     "Herbalist.Folktails",
     "Lido.Folktails",
     "MedicalBed.Folktails",
     "MudPit.Folktails",
     "RooftopTerrace.Folktails",
+    "Sauna.Folktails",
     "Shower.Folktails",
     "TeethGrindstone.Folktails"
     ],

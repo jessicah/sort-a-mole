@@ -14,11 +14,13 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
 	[
-     "Campfire.IronTeeth",
+ "Campfire.IronTeeth",
+    "DancePit.IronTeeth",
     "DecontaminationPod.IronTeeth",
     "Detailer.IronTeeth",
     "DoubleShower.IronTeeth",
     "ExercisePlaza.IronTeeth",
+    "Massager.IronTeeth",
     "MedicalBed.IronTeeth",
     "Motivatorium.IronTeeth",
     "MudBath.IronTeeth",

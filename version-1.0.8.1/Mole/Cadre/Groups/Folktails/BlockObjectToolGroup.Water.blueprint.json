@@ -14,14 +14,15 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
-            "AquiferDrill.Folktails",
+    "AquiferDrill.Folktails",
     "BadwaterDome.Folktails",
     "BadwaterPump.Folktails",
     "BadwaterRig.Folktails",
     "Centrifuge.Folktails",
-    "FluidDump.Folktails",
+    "CompactMechanicalPump.Folktails",
+    "Discharge.Folktails",
     "LargeWaterPump.Folktails",
-    "MechanicalFluidPump.Folktails",
+    "MechanicalPump.Folktails",
     "WaterPump.Folktails"
     ],
     "ChildrenOrderedIds":

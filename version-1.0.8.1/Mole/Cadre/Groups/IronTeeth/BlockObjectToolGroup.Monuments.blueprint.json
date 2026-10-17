@@ -14,11 +14,12 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
+    "ArchOfProgress.IronTeeth",
     "EarthRepopulator.IronTeeth",
     "FlameOfUnity.IronTeeth",
     "LaborerMonument.IronTeeth",
     "TributeToIngenuity.IronTeeth"
-    ],
+	],
     "ChildrenOrderedIds":
     [
      

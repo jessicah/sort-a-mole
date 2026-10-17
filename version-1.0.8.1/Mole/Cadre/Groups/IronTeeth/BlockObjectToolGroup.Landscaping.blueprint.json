@@ -25,12 +25,11 @@
     "ImpermeableFloor.IronTeeth",
     "IrrigationBarrier.IronTeeth",
     "Levee.IronTeeth",
-    "Sluice.IronTeeth",
     "TerrainBlock.IronTeeth",
+    "ThrottlingValve.IronTeeth",
     "TripleDynamite.IronTeeth",
     "TripleFloodgate.IronTeeth",
-    "Tunnel.IronTeeth",
-    "Valve.IronTeeth"
+    "Tunnel.IronTeeth"
     ],
     "ChildrenOrderedIds":
     [

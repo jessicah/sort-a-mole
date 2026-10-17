@@ -25,12 +25,11 @@
     "Floodgate.Folktails",
     "ImpermeableFloor.Folktails",
     "Levee.Folktails",
-    "Sluice.Folktails",
     "TerrainBlock.Folktails",
+    "ThrottlingValve.Folktails",
     "TripleDynamite.Folktails",
     "TripleFloodgate.Folktails",
-    "Tunnel.Folktails",
-    "Valve.Folktails"
+    "Tunnel.Folktails"
     ],
     "ChildrenOrderedIds":
     [

@@ -14,13 +14,14 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
-               "AquiferDrill.IronTeeth",
-    "BadwaterDischarge.IronTeeth",
+    "AquiferDrill.IronTeeth",
+    "BadwaterPressurizer.IronTeeth",
     "Centrifuge.IronTeeth",
+    "CompactMechanicalPump.IronTeeth",
     "DeepBadwaterPump.IronTeeth",
-    "DeepMechanicalFluidPump.IronTeeth",
+    "DeepMechanicalPump.IronTeeth",
     "DeepWaterPump.IronTeeth",
-    "FluidDump.IronTeeth"
+    "Discharge.IronTeeth"
     ],
     "ChildrenOrderedIds":
     [

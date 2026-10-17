@@ -14,7 +14,7 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
-       "BeaverStatue.Folktails",
+    "BeaverStatue.Folktails",
     "Bench.Folktails",
     "BulletinPole.Folktails",
     "Hammock.Folktails",
