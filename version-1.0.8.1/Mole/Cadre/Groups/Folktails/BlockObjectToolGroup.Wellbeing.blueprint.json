@@ -1,0 +1,36 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wellbeing.Folktails",
+    "Order": 100,
+    "NameLocKey": "Wellbeing.DisplayName",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wellbeing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+     "Agora.Folktails",
+    "Campfire.Folktails",
+    "Carousel.Folktails",
+    "ContemplationSpot.Folktails",
+    "DanceHall.Folktails",
+    "Detailer.Folktails",
+    "Herbalist.Folktails",
+    "Lido.Folktails",
+    "MedicalBed.Folktails",
+    "MudPit.Folktails",
+    "RooftopTerrace.Folktails",
+    "Shower.Folktails",
+    "TeethGrindstone.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

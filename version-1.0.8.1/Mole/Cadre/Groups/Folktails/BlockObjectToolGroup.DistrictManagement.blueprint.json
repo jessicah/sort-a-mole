@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "DistrictManagement.Folktails",
+    "Order": 30,
+    "NameLocKey": "ToolGroups.DistrictManagement",
+    "Icon": "Sprites/BottomBar/BuildingGroups/DistrictManagement",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+ "BuildersHut.Folktails",
+    "DistrictCenter.Folktails",
+    "DistrictCrossing.Folktails",
+    "HaulingPost.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

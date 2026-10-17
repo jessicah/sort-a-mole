@@ -1,0 +1,42 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Automation.Folktails",
+    "Order": 90,
+    "NameLocKey": "Automation.Automation",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Automation",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+     "Chronometer.Folktails",
+    "ContaminationSensor.Folktails",
+    "DepthSensor.Folktails",
+    "Detonator.Folktails",
+    "FireworkLauncher.Folktails",
+    "FlowSensor.Folktails",
+    "HttpAdapter.Folktails",
+    "HttpLever.Folktails",
+    "Indicator.Folktails",
+    "Lever.Folktails",
+    "Memory.Folktails",
+    "PopulationCounter.Folktails",
+    "PowerMeter.Folktails",
+    "Relay.Folktails",
+    "ResourceCounter.Folktails",
+    "ScienceCounter.Folktails",
+    "Speaker.Folktails",
+    "Timer.Folktails",
+    "WeatherStation.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

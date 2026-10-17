@@ -1,0 +1,29 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wood.IronTeeth",
+    "Order": 60,
+    "NameLocKey": "ToolGroups.Wood",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wood",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Forester.IronTeeth",
+    "GearWorkshop.IronTeeth",
+    "IndustrialLumberMill.IronTeeth",
+    "LumberjackFlag.IronTeeth",
+    "TappersShack.IronTeeth",
+    "WoodWorkshop.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

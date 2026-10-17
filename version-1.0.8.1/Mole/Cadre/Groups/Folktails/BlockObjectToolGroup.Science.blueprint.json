@@ -1,0 +1,28 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Science.Folktails",
+    "Order": 80,
+    "NameLocKey": "ToolGroups.Science",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Science",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BotAssembler.Folktails",
+    "BotPartFactory.Folktails",
+    "Inventor.Folktails",
+    "Observatory.Folktails",
+    "Refinery.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

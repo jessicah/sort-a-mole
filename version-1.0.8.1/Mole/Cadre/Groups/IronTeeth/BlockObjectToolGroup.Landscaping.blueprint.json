@@ -1,0 +1,40 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Landscaping.IronTeeth",
+    "Order": 5,
+    "NameLocKey": "ToolGroups.Landscaping",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Landscaping",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Dam.IronTeeth",
+    "DirtExcavator.IronTeeth",
+    "DoubleDynamite.IronTeeth",
+    "DoubleFloodgate.IronTeeth",
+    "Dynamite.IronTeeth",
+    "ExplosivesFactory.IronTeeth",
+    "FillValve.IronTeeth",
+    "Floodgate.IronTeeth",
+    "ImpermeableFloor.IronTeeth",
+    "IrrigationBarrier.IronTeeth",
+    "Levee.IronTeeth",
+    "Sluice.IronTeeth",
+    "TerrainBlock.IronTeeth",
+    "TripleDynamite.IronTeeth",
+    "TripleFloodgate.IronTeeth",
+    "Tunnel.IronTeeth",
+    "Valve.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

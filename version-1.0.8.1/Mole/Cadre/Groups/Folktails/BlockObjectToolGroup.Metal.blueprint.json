@@ -1,0 +1,26 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Metal.Folktails",
+    "Order": 65,
+    "NameLocKey": "ToolGroups.Metal",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Metal",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+   "Mine.Folktails",
+    "ScavengerFlag.Folktails",
+    "Smelter.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

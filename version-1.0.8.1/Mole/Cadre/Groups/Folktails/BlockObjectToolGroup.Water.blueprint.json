@@ -1,0 +1,32 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Water.Folktails",
+    "Order": 45,
+    "NameLocKey": "ToolGroups.Water",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Water",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+            "AquiferDrill.Folktails",
+    "BadwaterDome.Folktails",
+    "BadwaterPump.Folktails",
+    "BadwaterRig.Folktails",
+    "Centrifuge.Folktails",
+    "FluidDump.Folktails",
+    "LargeWaterPump.Folktails",
+    "MechanicalFluidPump.Folktails",
+    "WaterPump.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

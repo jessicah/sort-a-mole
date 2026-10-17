@@ -1,0 +1,32 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Storage.Folktails",
+    "Order": 20,
+    "NameLocKey": "ToolGroups.Storage",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Storage",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "LargePile.Folktails",
+    "LargeTank.Folktails",
+    "LargeWarehouse.Folktails",
+    "MediumTank.Folktails",
+    "MediumWarehouse.Folktails",
+    "SmallPile.Folktails",
+    "SmallTank.Folktails",
+    "SmallWarehouse.Folktails",
+    "UndergroundPile.Folktails"
+	],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

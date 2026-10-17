@@ -1,0 +1,45 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Power.IronTeeth",
+    "Order": 70,
+    "NameLocKey": "ToolGroups.Power",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Power",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Clutch.IronTeeth",
+    "CompactWaterWheel.IronTeeth",
+    "GeothermalEngine.IronTeeth",
+    "GravityBattery.IronTeeth",
+    "LargePowerWheel.IronTeeth",
+    "LargeWaterWheel.IronTeeth",
+    "PowerShaft.IronTeeth",
+    "SteamEngine.IronTeeth",
+    "VerticalPowerShaft.IronTeeth",
+
+	  
+      "SmallFlywheel.IronTeeth",
+      "SmallHorizontalFramedFlywheel.IronTeeth",
+      "SmallVerticalFramedFlywheel.IronTeeth",
+      "MediumFlywheel.IronTeeth",
+      "MediumHorizontalFramedFlywheel.IronTeeth",
+      "MediumVerticalFramedFlywheel.IronTeeth",
+      "LargeFlywheel.IronTeeth",
+      "LargeHorizontalFramedFlywheel.IronTeeth",
+      "LargeVerticalFramedFlywheel.IronTeeth",
+      "MediumVerticalJunction.IronTeeth",
+      "LargeVerticalJunction.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

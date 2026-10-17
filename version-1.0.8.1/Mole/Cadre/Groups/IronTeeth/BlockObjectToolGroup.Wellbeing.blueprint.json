@@ -1,0 +1,36 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wellbeing.IronTeeth",
+    "Order": 100,
+    "NameLocKey": "Wellbeing.DisplayName",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wellbeing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+	[
+     "Campfire.IronTeeth",
+    "DecontaminationPod.IronTeeth",
+    "Detailer.IronTeeth",
+    "DoubleShower.IronTeeth",
+    "ExercisePlaza.IronTeeth",
+    "MedicalBed.IronTeeth",
+    "Motivatorium.IronTeeth",
+    "MudBath.IronTeeth",
+    "RooftopTerrace.IronTeeth",
+    "Scratcher.IronTeeth",
+    "SwimmingPool.IronTeeth",
+    "TeethGrindstone.IronTeeth",
+    "WindTunnel.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

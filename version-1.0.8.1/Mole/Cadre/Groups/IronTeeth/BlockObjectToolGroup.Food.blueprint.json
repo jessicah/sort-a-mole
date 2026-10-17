@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Food.IronTeeth",
+    "Order": 50,
+    "NameLocKey": "ToolGroups.Food",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Food",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "CoffeeBrewery.IronTeeth",
+    "FarmHouse.IronTeeth",
+    "Fermenter.IronTeeth",
+    "FoodFactory.IronTeeth",
+    "GathererFlag.IronTeeth",
+    "HydroponicGarden.IronTeeth",
+    "OilPress.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

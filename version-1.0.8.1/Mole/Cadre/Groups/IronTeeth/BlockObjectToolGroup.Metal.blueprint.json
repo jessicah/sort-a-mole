@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Metal.IronTeeth",
+    "Order": 65,
+    "NameLocKey": "ToolGroups.Metal",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Metal",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "EfficientMine.IronTeeth",
+    "Metalsmith.IronTeeth",
+    "ScavengerFlag.IronTeeth",
+    "Smelter.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

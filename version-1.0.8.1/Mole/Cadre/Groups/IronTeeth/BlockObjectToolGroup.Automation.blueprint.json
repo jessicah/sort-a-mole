@@ -1,0 +1,42 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Automation.IronTeeth",
+    "Order": 90,
+    "NameLocKey": "Automation.Automation",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Automation",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Chronometer.IronTeeth",
+    "ContaminationSensor.IronTeeth",
+    "DepthSensor.IronTeeth",
+    "Detonator.IronTeeth",
+    "FireworkLauncher.IronTeeth",
+    "FlowSensor.IronTeeth",
+    "HttpAdapter.IronTeeth",
+    "HttpLever.IronTeeth",
+    "Indicator.IronTeeth",
+    "Lever.IronTeeth",
+    "Memory.IronTeeth",
+    "PopulationCounter.IronTeeth",
+    "PowerMeter.IronTeeth",
+    "Relay.IronTeeth",
+    "ResourceCounter.IronTeeth",
+    "ScienceCounter.IronTeeth",
+    "Speaker.IronTeeth",
+    "Timer.IronTeeth",
+    "WeatherStation.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Decoration.Folktails",
+    "Order": 110,
+    "NameLocKey": "ToolGroups.Decoration",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Decoration",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+       "BeaverStatue.Folktails",
+    "Bench.Folktails",
+    "BulletinPole.Folktails",
+    "Hammock.Folktails",
+    "Hedge.Folktails",
+    "Lantern.Folktails",
+    "PoleBanner.Folktails",
+    "Roof1x1.Folktails",
+    "Roof1x2.Folktails",
+    "Roof2x2.Folktails",
+    "Roof2x3.Folktails",
+    "Roof3x2.Folktails",
+    "Scarecrow.Folktails",
+    "Shrub.Folktails",
+    "SquareBanner.Folktails",
+    "StreamGauge.Folktails",
+    "Weathervane.Folktails",
+    "WoodFence.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

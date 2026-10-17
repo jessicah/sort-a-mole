@@ -1,0 +1,31 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wood.Folktails",
+    "Order": 60,
+    "NameLocKey": "ToolGroups.Wood",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wood",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+          "Forester.Folktails",
+    "GearWorkshop.Folktails",
+    "LumberjackFlag.Folktails",
+    "LumberMill.Folktails",
+    "PaperMill.Folktails",
+    "PrintingPress.Folktails",
+    "TappersShack.Folktails",
+    "WoodWorkshop.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

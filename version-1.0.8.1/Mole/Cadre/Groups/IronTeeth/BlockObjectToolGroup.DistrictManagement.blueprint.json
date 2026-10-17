@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "DistrictManagement.IronTeeth",
+    "Order": 30,
+    "NameLocKey": "ToolGroups.DistrictManagement",
+    "Icon": "Sprites/BottomBar/BuildingGroups/DistrictManagement",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BuildersHut.IronTeeth",
+    "DistrictCenter.IronTeeth",
+    "DistrictCrossing.IronTeeth",
+    "HaulingPost.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

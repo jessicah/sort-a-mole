@@ -1,0 +1,41 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Decoration.IronTeeth",
+    "Order": 110,
+    "NameLocKey": "ToolGroups.Decoration",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Decoration",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BeaverBust.IronTeeth",
+    "BeaverStatue.IronTeeth",
+    "Bell.IronTeeth",
+    "Bench.IronTeeth",
+    "Brazier.IronTeeth",
+    "DecorativeClock.IronTeeth",
+    "Lantern.IronTeeth",
+    "MetalFence.IronTeeth",
+    "PoleBanner.IronTeeth",
+    "Roof1x1.IronTeeth",
+    "Roof1x2.IronTeeth",
+    "Roof2x2.IronTeeth",
+    "Roof2x3.IronTeeth",
+    "Roof3x2.IronTeeth",
+    "Shrub.IronTeeth",
+    "SquareBanner.IronTeeth",
+    "StreamGauge.IronTeeth",
+    "WoodFence.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

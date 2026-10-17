@@ -1,0 +1,45 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Power.Folktails",
+    "Order": 70,
+    "NameLocKey": "ToolGroups.Power",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Power",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "Clutch.Folktails",
+    "GeothermalEngine.Folktails",
+    "GravityBattery.Folktails",
+    "LargeWindTurbine.Folktails",
+    "PowerShaft.Folktails",
+    "PowerWheel.Folktails",
+    "VerticalPowerShaft.Folktails",
+    "WaterWheel.Folktails",
+    "WindTurbine.Folktails",
+
+	  
+      "SmallFlywheel.Folktails",
+      "SmallHorizontalFramedFlywheel.Folktails",
+      "SmallVerticalFramedFlywheel.Folktails",
+      "MediumFlywheel.Folktails",
+      "MediumHorizontalFramedFlywheel.Folktails",
+      "MediumVerticalFramedFlywheel.Folktails",
+      "LargeFlywheel.Folktails",
+      "LargeHorizontalFramedFlywheel.Folktails",
+      "LargeVerticalFramedFlywheel.Folktails",
+      "MediumVerticalJunction.Folktails",
+      "LargeVerticalJunction.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

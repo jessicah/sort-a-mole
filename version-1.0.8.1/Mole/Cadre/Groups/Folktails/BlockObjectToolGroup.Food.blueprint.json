@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Food.Folktails",
+    "Order": 50,
+    "NameLocKey": "ToolGroups.Food",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Food",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+     "AquaticFarmhouse.Folktails",
+    "Bakery.Folktails",
+    "Beehive.Folktails",
+    "EfficientFarmHouse.Folktails",
+    "GathererFlag.Folktails",
+    "Grill.Folktails",
+    "Gristmill.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

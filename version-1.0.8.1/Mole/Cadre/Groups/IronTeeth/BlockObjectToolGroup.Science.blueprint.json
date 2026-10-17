@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Science.IronTeeth",
+    "Order": 80,
+    "NameLocKey": "ToolGroups.Science",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Science",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BotAssembler.IronTeeth",
+    "BotPartFactory.IronTeeth",
+    "ChargingStation.IronTeeth",
+    "ControlTower.IronTeeth",
+    "GreaseFactory.IronTeeth",
+    "Inventor.IronTeeth",
+    "Numbercruncher.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

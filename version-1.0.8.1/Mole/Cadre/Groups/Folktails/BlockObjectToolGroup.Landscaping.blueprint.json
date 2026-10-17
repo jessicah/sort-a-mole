@@ -1,0 +1,40 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Landscaping.Folktails",
+    "Order": 5,
+    "NameLocKey": "ToolGroups.Landscaping",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Landscaping",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "ContaminationBarrier.Folktails",
+    "Dam.Folktails",
+    "DirtExcavator.Folktails",
+    "DoubleDynamite.Folktails",
+    "DoubleFloodgate.Folktails",
+    "Dynamite.Folktails",
+    "ExplosivesFactory.Folktails",
+    "FillValve.Folktails",
+    "Floodgate.Folktails",
+    "ImpermeableFloor.Folktails",
+    "Levee.Folktails",
+    "Sluice.Folktails",
+    "TerrainBlock.Folktails",
+    "TripleDynamite.Folktails",
+    "TripleFloodgate.Folktails",
+    "Tunnel.Folktails",
+    "Valve.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

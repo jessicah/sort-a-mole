@@ -1,0 +1,29 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Housing.IronTeeth",
+    "Order": 40,
+    "NameLocKey": "ToolGroups.Housing",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Housing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "AdvancedBreedingPod.IronTeeth",
+    "Barrack.IronTeeth",
+    "BreedingPod.IronTeeth",
+    "LargeBarrack.IronTeeth",
+    "LargeRowhouse.IronTeeth",
+    "Rowhouse.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

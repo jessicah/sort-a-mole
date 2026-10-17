@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Monuments.Folktails",
+    "Order": 120,
+    "NameLocKey": "ToolGroups.Monuments",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Monuments",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "BrazierOfBonding.Folktails",
+    "EarthRecultivator.Folktails",
+    "FarmerMonument.Folktails",
+    "FountainOfJoy.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

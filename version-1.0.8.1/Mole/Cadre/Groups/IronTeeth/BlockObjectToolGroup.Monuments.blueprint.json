@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Monuments.IronTeeth",
+    "Order": 120,
+    "NameLocKey": "ToolGroups.Monuments",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Monuments",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "EarthRepopulator.IronTeeth",
+    "FlameOfUnity.IronTeeth",
+    "LaborerMonument.IronTeeth",
+    "TributeToIngenuity.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

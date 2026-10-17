@@ -1,0 +1,31 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Storage.IronTeeth",
+    "Order": 20,
+    "NameLocKey": "ToolGroups.Storage",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Storage",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    "LargeIndustrialPile.IronTeeth",
+    "LargeTank.IronTeeth",
+    "LargeWarehouse.IronTeeth",
+    "MediumTank.IronTeeth",
+    "MediumWarehouse.IronTeeth",
+    "SmallIndustrialPile.IronTeeth",
+    "SmallTank.IronTeeth",
+    "SmallWarehouse.IronTeeth"
+	],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}
