@@ -1,0 +1,24 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wood.Emberpelts",
+    "Order": 60,
+    "NameLocKey": "ToolGroups.Wood",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wood",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

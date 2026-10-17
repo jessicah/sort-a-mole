@@ -1,0 +1,29 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Food.Emberpelts",
+    "Order": 50,
+    "NameLocKey": "ToolGroups.Food",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Food",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+            "Bakery.Emberpelts",
+      "Farmhouse.Emberpelts",
+      "GathererFlag.Emberpelts",
+      "Grill.Emberpelts",
+      "Gristmill.Emberpelts",
+      "Press.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Monuments.Emberpelts",
+    "Order": 120,
+    "NameLocKey": "ToolGroups.Monuments",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Monuments",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      "ArchOfProgress.Emberpelts",
+      "FlameOfUnity.Emberpelts",
+      "LaborerMonument.Emberpelts",
+      "TributeToIngenuity.Emberpelts",
+      "Wonder.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

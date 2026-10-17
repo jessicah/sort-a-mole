@@ -1,0 +1,38 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Paths.Emberpelts",
+    "Order": 1,
+    "NameLocKey": "ToolGroups.Paths",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Paths",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+       "Airlock.Emberpelts",
+      "DecorativeFloor.Emberpelts",
+      "Gate.Emberpelts",
+      "Path2.Emberpelts",
+      "Path3.Emberpelts",
+      "Path4.Emberpelts",
+      "Path5.Emberpelts",
+      "SpiralStairs.Emberpelts",
+      "Stairs.Emberpelts",
+      "SuspensionBridge1x1.Emberpelts",
+      "SuspensionBridge2x1.Emberpelts",
+      "SuspensionBridge3x1.Emberpelts",
+      "SuspensionBridge4x1.Emberpelts",
+      "SuspensionBridge5x1.Emberpelts",
+      "SuspensionBridge6x1.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

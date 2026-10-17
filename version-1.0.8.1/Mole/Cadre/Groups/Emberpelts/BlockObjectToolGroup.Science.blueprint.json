@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Science.Emberpelts",
+    "Order": 80,
+    "NameLocKey": "ToolGroups.Science",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Science",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+        "BotAssembler.Emberpelts",
+      "BotPartFactory.Emberpelts",
+      "ControlTower.Emberpelts",
+      "Inventor.Emberpelts",
+      "Numbercruncher.Emberpelts",
+      "PhoenixDistillery.Emberpelts",
+      "Refinery.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

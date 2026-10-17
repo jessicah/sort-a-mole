@@ -1,0 +1,37 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Industry.Emberpelts",
+    "Order": 68,
+    "NameLocKey": "ToolGroups.Industry",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Industry",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+            "ClayPit.Emberpelts",
+      "Kiln.Emberpelts",
+      "Mine.Emberpelts",
+      "ScavengerFlag.Emberpelts",
+      "Smelter.Emberpelts",
+      "Smelter.Large.Emberpelts",
+      "Forester.Emberpelts",
+      "GearWorkshop.Emberpelts",
+      "GearWorkshop.Large.Emberpelts",
+      "LumberjackFlag.Emberpelts",
+      "LumberMill.Emberpelts",
+      "LumberMill.Large.Emberpelts",
+      "TappersShack.Emberpelts",
+	  "Metalsmith.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

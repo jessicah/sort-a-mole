@@ -1,0 +1,34 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Platforms.Emberpelts",
+    "Order": 3,
+    "NameLocKey": "ToolGroups.Platforms",
+    "Icon": "Buildings/Paths/Platform/PlatformIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+            "DoublePlatform.Emberpelts",
+      "MetalPlatform.Emberpelts",
+      "MetalPlatform3x3.Emberpelts",
+      "MetalPlatform5x5.Emberpelts",
+      "Overhang2x1.Emberpelts",
+      "Overhang3x1.Emberpelts",
+      "Overhang4x1.Emberpelts",
+      "Overhang5x1.Emberpelts",
+      "Overhang6x1.Emberpelts",
+      "Platform.Emberpelts",
+      "TriplePlatform.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

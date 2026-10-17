@@ -1,0 +1,35 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Storage.Emberpelts",
+    "Order": 20,
+    "NameLocKey": "ToolGroups.Storage",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Storage",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+         "ExtraLargeIndustrialPile.Emberpelts",
+      "LargeIndustrialPile.Emberpelts",
+      "LargeTank.Emberpelts",
+      "LargeUndergroundTank.Emberpelts",
+      "LargeWarehouse.Emberpelts",
+      "MediumTank.Emberpelts",
+      "MediumWarehouse.Emberpelts",
+      "SmallIndustrialPile.Emberpelts",
+      "SmallTank.Emberpelts",
+      "SmallWarehouse.Emberpelts",
+      "UndergroundPile.Emberpelts",
+      "UndergroundWarehouse.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Automation.Emberpelts",
+    "Order": 90,
+    "NameLocKey": "Automation.Automation",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Automation",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      "Chronometer.Emberpelts",
+      "ContaminationSensor.Emberpelts",
+      "DepthSensor.Emberpelts",
+      "Detonator.Emberpelts",
+      "FireworkLauncher.Emberpelts",
+      "FlowSensor.Emberpelts",
+      "HttpAdapter.Emberpelts",
+      "HttpLever.Emberpelts",
+      "Indicator.Emberpelts",
+      "Lever.Emberpelts",
+      "Memory.Emberpelts",
+      "PopulationCounter.Emberpelts",
+      "PowerMeter.Emberpelts",
+      "Relay.Emberpelts",
+      "ResourceCounter.Emberpelts",
+      "ScienceCounter.Emberpelts",
+      "Speaker.Emberpelts",
+      "Timer.Emberpelts",
+      "WeatherStation.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

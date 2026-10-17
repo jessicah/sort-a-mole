@@ -1,0 +1,44 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Housing.Emberpelts",
+    "Order": 40,
+    "NameLocKey": "ToolGroups.Housing",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Housing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+          "BigLodge.Emberpelts",
+      "DoubleLodge.Emberpelts",
+      "DoubleVerticalLodge.Emberpelts",
+      "Lodge.Emberpelts",
+      "MiniLodge.Emberpelts",
+      "TenementLodge.Emberpelts",
+      "TripleLodge.Emberpelts",
+      "VerticalLodge.Emberpelts",
+      "SkyBridge.Bridge2x1.Emberpelts",
+      "SkyBridge.Bridge3x1.Emberpelts",
+      "SkyBridge.Bridge4x1.Emberpelts",
+      "SkyBridge.Bridge5x1.Emberpelts",
+      "SkyBridge.Bridge6x1.Emberpelts",
+      "SkyBridge.Emberpelts",
+      "SkyBridgeEntrance.Emberpelts",
+      "SkyBridgeLadder.Emberpelts",
+      "SkyBridgeStairs.Emberpelts",
+      "TubewaySkyBridge.Emberpelts",
+
+	    "AdvancedBreedingPod.Emberpelts",
+    "BreedingPod.Emberpelts",
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

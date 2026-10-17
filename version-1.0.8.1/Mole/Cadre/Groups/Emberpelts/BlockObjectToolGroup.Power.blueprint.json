@@ -1,0 +1,49 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Power.Emberpelts",
+    "Order": 70,
+    "NameLocKey": "ToolGroups.Power",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Power",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      "Clutch.Emberpelts",
+      "CompactWaterWheel.Emberpelts",
+      "Engine.Emberpelts",
+      "FuelEngine.Emberpelts",
+      "GeothermalEngine.Emberpelts",
+      "GravityBattery.Emberpelts",
+      "ImpermeablePowerShaft.Emberpelts",
+      "LargePowerWheel.Emberpelts",
+      "PowerShaft.Emberpelts",
+      "VerticalPowerShaft.Emberpelts",
+      "VerticalPowerShaftTunnel.Emberpelts",
+      "SmallEngine.Emberpelts",
+      "WindTurbine.Emberpelts",
+
+	  
+      "SmallFlywheel.Emberpelts",
+      "SmallHorizontalFramedFlywheel.Emberpelts",
+      "SmallVerticalFramedFlywheel.Emberpelts",
+      "MediumFlywheel.Emberpelts",
+      "MediumHorizontalFramedFlywheel.Emberpelts",
+      "MediumVerticalFramedFlywheel.Emberpelts",
+      "LargeFlywheel.Emberpelts",
+      "LargeHorizontalFramedFlywheel.Emberpelts",
+      "LargeVerticalFramedFlywheel.Emberpelts",
+      "MediumVerticalJunction.Emberpelts",
+      "LargeVerticalJunction.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

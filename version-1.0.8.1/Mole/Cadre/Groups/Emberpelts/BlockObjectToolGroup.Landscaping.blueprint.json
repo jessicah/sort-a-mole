@@ -1,0 +1,44 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Landscaping.Emberpelts",
+    "Order": 5,
+    "NameLocKey": "ToolGroups.Landscaping",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Landscaping",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+        "ContaminationBarrier.Emberpelts",
+      "Dam.Emberpelts",
+      "DirtExcavator.Emberpelts",
+      "DoubleDynamite.Emberpelts",
+      "DoubleFloodgate.Emberpelts",
+      "Dynamite.Emberpelts",
+      "ExplosivesFactory.Emberpelts",
+      "Floodgate.Emberpelts",
+      "DoubleFloodgate.Flat.Emberpelts",
+      "Floodgate.Flat.Emberpelts",
+      "TripleFloodgate.Flat.Emberpelts",
+      "ImpermeableFloor.Emberpelts",
+      "Levee.Emberpelts",
+      "LeveeTunnel.Emberpelts",
+      "Sluice.Emberpelts",
+      "TerrainBlock.Emberpelts",
+      "TripleDynamite.Emberpelts",
+      "TripleFloodgate.Emberpelts",
+      "Tunnel.Emberpelts",
+      "FillValve.Emberpelts",
+      "ThrottlingValve.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

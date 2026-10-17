@@ -1,0 +1,34 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Water.Emberpelts",
+    "Order": 45,
+    "NameLocKey": "ToolGroups.Water",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Water",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+           "AquiferDrill.Emberpelts",
+      "AquiferRig.Emberpelts",
+      "AutomatedWaterPump.Emberpelts",
+      "BadwaterPressurizer.Emberpelts",
+      "BadwaterPump.Emberpelts",
+      "BadwaterRig.Emberpelts",
+      "Centrifuge.Emberpelts",
+      "CompactMechanicalPump.Emberpelts",
+      "Discharge.Emberpelts",
+      "MechanicalPump.Emberpelts",
+      "WaterPump.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Tubeway.Emberpelts",
+    "Order": 4,
+    "NameLocKey": "Building.Tubeway.DisplayName",
+    "Icon": "Buildings/Paths/Tubeway/TubewayIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      "Tubeway.Bridge2x1.Emberpelts",
+      "Tubeway.Bridge3x1.Emberpelts",
+      "Tubeway.Bridge4x1.Emberpelts",
+      "Tubeway.Bridge5x1.Emberpelts",
+      "Tubeway.Bridge6x1.Emberpelts",
+      "Tubeway.Emberpelts",
+      "Tubeway.Gate.Emberpelts",
+      "Tubeway.Straight.Emberpelts",
+      "TubewayLevee.Emberpelts",
+      "TubewayLeveeTunnel.Emberpelts",
+      "TubewayStation.Emberpelts",
+      "TubewayStation.Small.Emberpelts",
+      "TubewayTunnel.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

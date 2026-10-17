@@ -1,0 +1,39 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Wellbeing.Emberpelts",
+    "Order": 100,
+    "NameLocKey": "Wellbeing.DisplayName",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wellbeing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+        "Campfire.Emberpelts",
+      "Carousel.Emberpelts",
+      "ContemplationSpot.Emberpelts",
+      "DanceHall.Emberpelts",
+      "DecontaminationPod.Emberpelts",
+      "Detailer.Emberpelts",
+      "ExercisePlaza.Emberpelts",
+      "Massager.Emberpelts",
+      "MedicalBed.Emberpelts",
+      "RooftopTerrace.Emberpelts",
+      "Scratcher.Emberpelts",
+      "TeethGrindstone.Emberpelts",
+
+	   "Sandblaster.Emberpelts",
+    "GeothermalSauna.Emberpelts",
+    "Sauna.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

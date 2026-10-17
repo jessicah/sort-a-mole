@@ -1,0 +1,51 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Decoration.Emberpelts",
+    "Order": 110,
+    "NameLocKey": "ToolGroups.Decoration",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Decoration",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Faction.MoleCadre.Emberpelts"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+      "BeaverBust.Emberpelts",
+      "BeaverStatue.Emberpelts",
+      "Bench.Emberpelts",
+      "Brazier.Emberpelts",
+      "Clock.Emberpelts",
+      "Hedge.Emberpelts",
+      "IncenseBurner.Emberpelts",
+      "Lantern.Emberpelts",
+      "MetalFence.Emberpelts",
+      "PoleBanner.Emberpelts",
+      "HalfRoof1x1.Emberpelts",
+      "HalfRoof1x2.Emberpelts",
+      "HalfRoof2x1.Emberpelts",
+      "HalfRoof2x2.Emberpelts",
+      "Roof1x1.Emberpelts",
+      "Roof1x2.Emberpelts",
+      "Roof2x2.Emberpelts",
+      "Roof2x3.Emberpelts",
+      "Roof3x2.Emberpelts",
+      "Shrub.Emberpelts",
+      "SquareBanner.Emberpelts",
+      "StreamGauge.Emberpelts",
+      "Weathervane.Emberpelts",
+      "WoodFence.Emberpelts",
+
+	   "Bell.Emberpelts",
+    "BulletinPole.Emberpelts",
+    "Scarecrow.Emberpelts"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}
