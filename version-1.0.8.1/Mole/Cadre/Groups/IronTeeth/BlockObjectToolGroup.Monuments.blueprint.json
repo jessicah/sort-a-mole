@@ -18,7 +18,9 @@
     "EarthRepopulator.IronTeeth",
     "FlameOfUnity.IronTeeth",
     "LaborerMonument.IronTeeth",
-    "TributeToIngenuity.IronTeeth"
+    "TributeToIngenuity.IronTeeth",
+
+	  "TreeOfLife.PlantingSite.IronTeeth"
 	],
     "ChildrenOrderedIds":
     [

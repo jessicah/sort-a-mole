@@ -19,7 +19,9 @@
   "Statue_Farmer.Whitepaws",
   "Statue_Lumberjack.Whitepaws",
   "Statue_Metalworker.Whitepaws",
-      "Statue_Dunking"
+      "Statue_Dunking",
+
+	  "TreeOfLife.PlantingSite.Whitepaws"
 	],
 	"ChildrenOrderedIds":[ 
   "Statue_Dunking.Whitepaws",

@@ -18,7 +18,9 @@
       "FlameOfUnity.Emberpelts",
       "LaborerMonument.Emberpelts",
       "TributeToIngenuity.Emberpelts",
-      "Wonder.Emberpelts"
+      "Wonder.Emberpelts",
+
+	  "TreeOfLife.PlantingSite.Emberpelts"
     ],
     "ChildrenOrderedIds":
     [

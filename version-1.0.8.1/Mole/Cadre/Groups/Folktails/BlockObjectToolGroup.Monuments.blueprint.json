@@ -18,7 +18,9 @@
     "EarthRecultivator.Folktails",
     "FarmerMonument.Folktails",
     "FountainOfJoy.Folktails",
-    "HallOfAbundance.Folktails"
+    "HallOfAbundance.Folktails",
+
+	  "TreeOfLife.PlantingSite"
     ],
     "ChildrenOrderedIds":
     [
