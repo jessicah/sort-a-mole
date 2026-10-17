@@ -10,7 +10,8 @@
       "Branch.Bridge3x1.LeafCoats",
       "Branch.Bridge4x1.LeafCoats",
       "Branch.Bridge5x1.LeafCoats",
-      "Branch.Bridge6x1.LeafCoats"
+      "Branch.Bridge6x1.LeafCoats",
+	  "Branch.Bridge.Stairs.LeafCoats"
     ],
     "ChildrenOrderedIds":
     [
@@ -19,7 +20,8 @@
       "Branch.Bridge3x1.LeafCoats",
       "Branch.Bridge4x1.LeafCoats",
       "Branch.Bridge5x1.LeafCoats",
-      "Branch.Bridge6x1.LeafCoats"
+      "Branch.Bridge6x1.LeafCoats",
+	  "Branch.Bridge.Stairs.LeafCoats"
     ]
   }
 }
