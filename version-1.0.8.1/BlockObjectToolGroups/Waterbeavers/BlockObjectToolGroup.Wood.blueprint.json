@@ -1,0 +1,31 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Wood",
+	"Order": 45,
+	"NameLocKey": "ToolGroups.Wood",
+	"Icon": "Sprites/BottomBar/BuildingGroups/Wood",
+	"FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws"
+    ]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [
+		"AdvancedSawmill.Whitepaws",
+  "Flag_Lumberjack.Whitepaws",
+  "Flag_Tappers.Whitepaws",
+  "GiantLogFeller.Whitepaws",
+  "TreeNursery.Whitepaws",
+  "GnawingHall.Whitepaws",
+  "GnawingTent.Whitepaws",
+  "Papermill.Whitepaws",
+  "PrimitivePapermill.Whitepaws",
+  "RudimentarySawmill.Whitepaws",
+  "GiantLogStorage.Whitepaws"
+	]
+  }
+}

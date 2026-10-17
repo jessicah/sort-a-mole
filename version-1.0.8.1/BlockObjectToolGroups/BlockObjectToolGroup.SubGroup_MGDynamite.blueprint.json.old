@@ -1,0 +1,10 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "SubGroup_MGDynamite"
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Damhouses"
+    ]
+  }
+}

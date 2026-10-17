@@ -1,0 +1,33 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Monuments",
+    "Order": 120,
+    "NameLocKey": "ToolGroups.Monuments",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Monuments",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [ "MissileSilo.Whitepaws",
+  "Statue_Dunking.Whitepaws",
+  "Statue_Farmer.Whitepaws",
+  "Statue_Lumberjack.Whitepaws",
+  "Statue_Metalworker.Whitepaws",
+      "Statue_Dunking"
+	],
+	"ChildrenOrderedIds":[ 
+  "Statue_Dunking.Whitepaws",
+  "Statue_Farmer.Whitepaws",
+  "Statue_Lumberjack.Whitepaws",
+  "Statue_Metalworker.Whitepaws",
+      "Statue_Dunking",
+	  "MissileSilo.Whitepaws"
+	]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Automation",
+    "Order": 90,
+    "NameLocKey": "Automation.Automation",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Automation",
+	"FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [
+		"Calculatorium.Whitepaws",
+  "Chronometer.Whitepaws",
+  "Counter_Pop.Whitepaws",
+  "PowerMeter.Whitepaws",
+  "Counter_Resource.Whitepaws",
+  "Counter_Science.Whitepaws",
+  "FireworkLauncher.Whitepaws",
+  "Indicator.Whitepaws",
+  "Lever.Whitepaws",
+  "Memory.Whitepaws",
+  "Relay.Whitepaws",
+  "Timer.Whitepaws",
+  "WallMountIndicator.Whitepaws",
+  "ContaminationSensor2.Whitepaws",
+  "DepthSensor2.Whitepaws",
+  "FlowSensor.Whitepaws",
+  "Wuoodupgrade_WeatherStation.Whitepaws"
+	]
+  }
+}

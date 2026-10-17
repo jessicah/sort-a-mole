@@ -1,0 +1,10 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Subgroup_MGPiles"
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws.Storage"
+    ]
+  }
+}

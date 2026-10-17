@@ -1,0 +1,11 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Districts"
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+		/* actually under Paths... but this might be okay */
+      "Faction.MoleCadre.Whitepaws"
+    ]
+  }
+}

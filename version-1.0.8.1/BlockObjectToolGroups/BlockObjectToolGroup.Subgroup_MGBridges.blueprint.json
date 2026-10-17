@@ -1,0 +1,10 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Subgroup_MGBridges"
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws.Paths"
+    ]
+  }
+}

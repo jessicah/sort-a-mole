@@ -1,0 +1,20 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Housing",
+    "Order": 40,
+    "NameLocKey": "ToolGroups.Housing",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Housing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [
+	]
+  }
+}

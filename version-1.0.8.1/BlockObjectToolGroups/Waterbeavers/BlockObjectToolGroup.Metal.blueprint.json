@@ -1,0 +1,29 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Metal",
+    "Order": 65,
+    "NameLocKey": "ToolGroups.Metal",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Metal",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [ "Foundry.Whitepaws",
+  "Flag_Scavenger.Whitepaws",
+  "AssemblyLine.Whitepaws",
+  "Factory.Whitepaws",
+  "SmallForge.Whitepaws",
+  "OreSmelter.Whitepaws",
+  "PrimitiveIronworks.Whitepaws",
+  "WoodBurner.Whitepaws",
+  "ScavengerDen.Whitepaws",
+  "DeepRuin"
+	]
+  }
+}

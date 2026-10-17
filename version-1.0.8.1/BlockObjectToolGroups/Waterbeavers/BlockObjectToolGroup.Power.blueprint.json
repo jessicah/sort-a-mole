@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Power",
+    "Order": 70,
+    "NameLocKey": "ToolGroups.Power",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Power",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": ["Clutch.Whitepaws",
+  "Clutch.Folktails",
+  "GeothermalEngine.Whitepaws",
+  "CrappyWaterWheel.Whitepaws",
+  "Engine.Whitepaws",
+  "HeavyGravityBattery.Whitepaws",
+  "LargeWaterWheel.Whitepaws",
+  "LightGravityBattery.Whitepaws",
+  "MediumGravityBattery.Whitepaws",
+  "SolarArray.Whitepaws",
+  "WaterWheel.Whitepaws"
+	]
+  }
+}

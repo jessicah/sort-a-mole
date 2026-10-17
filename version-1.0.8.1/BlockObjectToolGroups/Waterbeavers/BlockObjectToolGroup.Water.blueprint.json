@@ -1,0 +1,23 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Water",
+	"Order": 45,
+	"NameLocKey": "ToolGroups.WaterandBadwater",
+	"Icon": "Sprites/Whitepaws Sprites/Other/WaterandBadwater",
+	"FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws"
+    ]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": ["RiverBath.Whitepaws",
+  "SluiceHouse.Whitepaws",
+  "TankShower.Whitepaws",
+  "TrueSluiceHouse.Whitepaws"
+	]
+  }
+}

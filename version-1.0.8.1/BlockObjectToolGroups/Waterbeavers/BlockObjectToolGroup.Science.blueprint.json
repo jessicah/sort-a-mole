@@ -1,0 +1,28 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Science",
+    "Order": 80,
+    "NameLocKey": "ToolGroups.Science",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Science",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": ["FireflyGroomingStation.Whitepaws",
+  "Architectlodge.Whitepaws",
+  "BotAssembler.Whitepaws",
+  "BOTDistrictCrossing.Whitepaws",
+  "BotHaulingStation.Whitepaws",
+  "ENS.Whitepaws",
+  "Library.Whitepaws",
+  "Mechanicslodge.Whitepaws",
+  "DeepRuin"
+	]
+  }
+}

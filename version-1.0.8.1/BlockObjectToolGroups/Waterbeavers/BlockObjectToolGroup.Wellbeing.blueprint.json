@@ -1,0 +1,33 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Wellbeing",
+    "Order": 100,
+    "NameLocKey": "ToolGroups.Wellbeing",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Wellbeing",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [  "Clinic.Whitepaws",
+  "ContaminatedJail.Whitepaws",
+  "DanceHall.Whitepaws",
+  "Detailer.Whitepaws",
+  "ExercisePlaza.Whitepaws",
+  "Fixedmedicalbed_Burns.Whitepaws",
+  "Fixedmedicalbed_Disease.Whitepaws",
+  "Fixedmedicalbed_Injury.Whitepaws",
+  "NerdyAttic.Whitepaws",
+  "PetanqueCourt.Whitepaws",
+  "TeethGrindstone.Whitepaws",
+  "Trebuchet.Whitepaws",
+  "Trebuchet_Attraction.Whitepaws",
+  "WashingMachine.Whitepaws"
+	]
+  }
+}

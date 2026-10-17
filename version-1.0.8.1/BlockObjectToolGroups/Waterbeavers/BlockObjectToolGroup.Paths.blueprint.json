@@ -1,0 +1,30 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Paths",
+    "Order": 1,
+    "NameLocKey": "ToolGroups.Paths",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Paths",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": ["Gate.Whitepaws",
+  "BetterWoodFence.Whitepaws",
+  "WoodFence.Whitepaws",
+  "WoodGate.Whitepaws",
+  "Addon_LargeFarmhouse.Whitepaws",
+  "Addon_TreeNursery.Whitepaws",
+  "ZiplinePylon.Whitepaws",
+  "Zipline_Balloon_Relay.Whitepaws",
+  "Zipline_Balloon_Terminal.Whitepaws",
+  "Zipline_SmallTower.Whitepaws",
+  "Zipline_Woodupgrade.Whitepaws"
+	]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Storage",
+    "Order": 20,
+    "NameLocKey": "ToolGroups.Storage",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Storage",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [ "AdvancedWarmStorage.Whitepaws",
+  "GazTank.Whitepaws",
+  "GloriousStorage.Whitepaws",
+  "ScrollHolder.Whitepaws",
+  "SoupHand.Whitepaws",
+  "UndergroundColdStorage.Whitepaws",
+  "Unstorablestorage.Whitepaws",
+  "WarmStorage.Whitepaws"
+	]
+  }
+}

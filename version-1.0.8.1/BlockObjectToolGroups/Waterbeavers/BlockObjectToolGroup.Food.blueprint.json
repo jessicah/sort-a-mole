@@ -1,0 +1,26 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Food",
+    "Order": 50,
+    "NameLocKey": "ToolGroups.Food",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Food",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws"
+    ]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": ["Farm.Whitepaws",
+  "FarmFarmUpgrade.Whitepaws",
+  "Flag_Gatherer.Whitepaws",
+  "Florist.Whitepaws",
+  "GMO_Lab.Whitepaws",
+  "LargeFarmhouse.Whitepaws",
+  "MushroomTent.Whitepaws"
+	]
+  }
+}

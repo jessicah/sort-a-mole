@@ -1,0 +1,10 @@
+{
+  "BlockObjectToolGroupSpec": {
+	"Id": "AdvancedBuildings"
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  }
+}

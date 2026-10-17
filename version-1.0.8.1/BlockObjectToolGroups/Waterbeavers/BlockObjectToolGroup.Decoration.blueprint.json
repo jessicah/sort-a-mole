@@ -1,0 +1,36 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Decoration",
+    "Order": 110,
+    "NameLocKey": "ToolGroups.Decoration",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Decoration",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [
+		"ElevatedRoof1x1.Whitepaws",
+"ElevatedRoof1x1Corner.Whitepaws",
+"ElevatedRoof1x1Stair.Whitepaws",
+"ElevatedRoof1x3.Whitepaws",
+"ElevatedRoof1x3_ALT.Whitepaws",
+"ElevatedRoof1x4.Whitepaws",
+"ModularElevatedRoof.Whitepaws",
+"GoldFence.Whitepaws",
+"GoldFenceGate.Whitepaws",
+"Hedge.Whitepaws",
+"IncenseBurner.Whitepaws",
+"PublicFountain.Whitepaws",
+"Statue_PAIN.Whitepaws",
+"Statue_Pointer.Whitepaws",
+"Statue_Pregnant.Whitepaws",
+"Statue_UpsideDown.Whitepaws"
+	]
+  }
+}

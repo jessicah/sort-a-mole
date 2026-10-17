@@ -1,0 +1,11 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "DeepRuin"
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Faction.MoleCadre.Whitepaws.Metal",
+      "Faction.MoleCadre.Whitepaws.Science"
+    ]
+  }
+}

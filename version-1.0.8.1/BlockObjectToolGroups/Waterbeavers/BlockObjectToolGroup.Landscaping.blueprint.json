@@ -1,0 +1,20 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Faction.MoleCadre.Whitepaws.Landscaping",
+    "Order": 5,
+    "NameLocKey": "ToolGroups.Landscaping",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Landscaping",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": [
+	  "Faction.MoleCadre.Whitepaws"
+	]
+  },
+  "ToolGroupChildrenSpec":
+  {
+	"DoNotIncludePlaceableToolGroup": true,
+	"ChildrenToolsTemplateNames": [
+	]
+  }
+}
