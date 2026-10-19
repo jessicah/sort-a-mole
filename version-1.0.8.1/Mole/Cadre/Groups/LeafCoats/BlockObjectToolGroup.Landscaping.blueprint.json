@@ -1,7 +1,10 @@
 {
   "BlockObjectToolGroupSpec": {
     "Id": "Landscaping.LeafCoats",
-    "Order": 10
+    "Order": 10,
+    "NameLocKey": "ToolGroups.Landscaping",
+    "Icon": "Sprites/BottomBar/BuildingGroups/Landscaping",
+    "FallbackGroup": false
   },
   "ParentToolGroupSpec": {
 	"ParentIds": ["Faction.MoleCadre.LeafCoats"]

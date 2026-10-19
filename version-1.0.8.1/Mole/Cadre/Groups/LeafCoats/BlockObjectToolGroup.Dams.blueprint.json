@@ -26,20 +26,7 @@
     "Sluice.LeafCoats",
     "ThrottlingValve.LeafCoats",
     "TripleFloodgate.Flat.LeafCoats",
-    "TripleFloodgate.LeafCoats",
-    "Dam.Top.LeafCoats",
-    "DoubleFloodgate.Flat.LeafCoats",
-    "DoubleFloodgate.LeafCoats",
-    "Floodgate.Flat.LeafCoats",
-    "Floodgate.LeafCoats",
-    "TripleFloodgate.Flat.LeafCoats",
-    "TripleFloodgate.LeafCoats",
-    "Sluice.LeafCoats",
-    "Dam.LeafCoats",
-    "FillValve.LeafCoats",
-    "Levee.Curved.LeafCoats",
-    "Levee.LeafCoats",
-    "ThrottlingValve.LeafCoats"
+    "TripleFloodgate.LeafCoats"
     ],
     "ChildrenOrderedIds":
     [

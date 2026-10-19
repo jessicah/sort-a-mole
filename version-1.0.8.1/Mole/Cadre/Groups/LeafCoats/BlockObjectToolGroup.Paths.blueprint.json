@@ -1,7 +1,7 @@
 {
   "BlockObjectToolGroupSpec": {
     "Id": "Paths.LeafCoats",
-    "Order": 1,
+    "Order": 39,
     "NameLocKey": "ToolGroups.Paths",
     "Icon": "Sprites/BottomBar/BuildingGroups/Paths",
     "FallbackGroup": false
@@ -14,46 +14,7 @@
     "DoNotIncludePlaceableToolGroup": true,
     "ChildrenToolsTemplateNames":
     [
-    "Airlock.LeafCoats",
-    "AirlockTunnel.LeafCoats",
-    "DecorativeFloor.LeafCoats",
-    "Gate.LeafCoats",
-    "Ladder.Core.LeafCoats",
-    "Ladder.LeafCoats",
-    "Ladder.Simple.LeafCoats",
-    "LadderTunnel.LeafCoats",
-    "Path2.LeafCoats",
-    "Path3.LeafCoats",
-    "Path4.LeafCoats",
-    "Path5.LeafCoats",
-    "SpiralStairs.LeafCoats",
-    "SuspensionBridge1x1.LeafCoats",
-    "SuspensionBridge2x1.LeafCoats",
-    "SuspensionBridge3x1.LeafCoats",
-    "SuspensionBridge4x1.LeafCoats",
-    "SuspensionBridge5x1.LeafCoats",
-    "SuspensionBridge6x1.LeafCoats",
-    "WoodenStairs.LeafCoats",
-    "Airlock.LeafCoats",
-    "AirlockTunnel.LeafCoats",
-    "SuspensionBridge1x1.LeafCoats",
-    "SuspensionBridge2x1.LeafCoats",
-    "SuspensionBridge3x1.LeafCoats",
-    "SuspensionBridge4x1.LeafCoats",
-    "SuspensionBridge5x1.LeafCoats",
-    "SuspensionBridge6x1.LeafCoats",
-    "Ladder.Core.LeafCoats",
-    "Ladder.LeafCoats",
-    "Ladder.Simple.LeafCoats",
-    "LadderTunnel.LeafCoats",
-    "Path2.LeafCoats",
-    "Path3.LeafCoats",
-    "Path4.LeafCoats",
-    "Path5.LeafCoats",
-    "DecorativeFloor.LeafCoats",
-    "Gate.LeafCoats",
-    "SpiralStairs.LeafCoats",
-    "WoodenStairs.LeafCoats"
+    
     ],
     "ChildrenOrderedIds":
     [
