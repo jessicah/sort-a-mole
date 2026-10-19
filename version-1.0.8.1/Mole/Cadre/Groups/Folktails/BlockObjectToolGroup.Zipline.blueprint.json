@@ -1,0 +1,26 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Zipline.Folktails",
+    "Order": 110,
+    "NameLocKey": "Zipline.DisplayName",
+    "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Paths.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [   
+    "ZiplineBeam.Folktails",
+    "ZiplinePylon.Folktails",
+    "ZiplineStation.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

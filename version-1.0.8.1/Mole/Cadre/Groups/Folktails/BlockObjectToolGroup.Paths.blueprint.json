@@ -17,14 +17,6 @@
     "Airlock.Folktails",
     "DoublePlatform.Folktails",
     "Gate.Folktails",
-    "MetalPlatform3x3.Folktails",
-    "MetalPlatform5x5.Folktails",
-    "Overhang2x1.Folktails",
-    "Overhang3x1.Folktails",
-    "Overhang4x1.Folktails",
-    "Overhang5x1.Folktails",
-    "Overhang6x1.Folktails",
-    "Platform.Folktails",
     "SpiralStairs.Folktails",
     "Stairs.Folktails",
     "SuspensionBridge1x1.Folktails",
@@ -32,11 +24,7 @@
     "SuspensionBridge3x1.Folktails",
     "SuspensionBridge4x1.Folktails",
     "SuspensionBridge5x1.Folktails",
-    "SuspensionBridge6x1.Folktails",
-    "TriplePlatform.Folktails",
-    "ZiplineBeam.Folktails",
-    "ZiplinePylon.Folktails",
-    "ZiplineStation.Folktails"
+    "SuspensionBridge6x1.Folktails"
     ],
     "ChildrenOrderedIds":
     [

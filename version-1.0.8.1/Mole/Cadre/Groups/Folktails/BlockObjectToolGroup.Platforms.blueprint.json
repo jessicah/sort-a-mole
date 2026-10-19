@@ -1,0 +1,34 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Platforms.Folktails",
+    "Order": 100,
+    "NameLocKey": "ToolGroups.Platforms",
+    "Icon": "Buildings/Paths/Platform/PlatformIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Paths.Folktails"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+    
+    "MetalPlatform3x3.Folktails",
+    "MetalPlatform5x5.Folktails",
+    "Overhang2x1.Folktails",
+    "Overhang3x1.Folktails",
+    "Overhang4x1.Folktails",
+    "Overhang5x1.Folktails",
+    "Overhang6x1.Folktails",
+    "Platform.Folktails",
+    "DoublePlatform.Folktails",
+    "TriplePlatform.Folktails"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}
