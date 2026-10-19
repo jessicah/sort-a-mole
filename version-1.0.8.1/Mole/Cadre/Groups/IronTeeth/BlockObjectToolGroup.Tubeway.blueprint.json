@@ -1,0 +1,28 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Tubeway.IronTeeth",
+    "Order": 110,
+    "NameLocKey": "Building.Tubeway.DisplayName",
+    "Icon": "Buildings/Paths/Tubeway/TubewayIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Paths.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+     
+    "ImpermeableTubeway.IronTeeth",
+    "Tubeway.IronTeeth",
+    "TubewayStation.IronTeeth",
+    "VerticalTubeway.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}

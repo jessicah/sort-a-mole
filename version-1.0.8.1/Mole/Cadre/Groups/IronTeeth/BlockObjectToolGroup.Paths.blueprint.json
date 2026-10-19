@@ -17,15 +17,7 @@
     "Airlock.IronTeeth",
     "DoublePlatform.IronTeeth",
     "Gate.IronTeeth",
-    "ImpermeableTubeway.IronTeeth",
-    "MetalPlatform3x3.IronTeeth",
-    "MetalPlatform5x5.IronTeeth",
-    "Overhang2x1.IronTeeth",
-    "Overhang3x1.IronTeeth",
-    "Overhang4x1.IronTeeth",
-    "Overhang5x1.IronTeeth",
-    "Overhang6x1.IronTeeth",
-    "Platform.IronTeeth",
+    
     "SpiralStairs.IronTeeth",
     "Stairs.IronTeeth",
     "SuspensionBridge1x1.IronTeeth",
@@ -33,11 +25,7 @@
     "SuspensionBridge3x1.IronTeeth",
     "SuspensionBridge4x1.IronTeeth",
     "SuspensionBridge5x1.IronTeeth",
-    "SuspensionBridge6x1.IronTeeth",
-    "TriplePlatform.IronTeeth",
-    "Tubeway.IronTeeth",
-    "TubewayStation.IronTeeth",
-    "VerticalTubeway.IronTeeth"
+    "SuspensionBridge6x1.IronTeeth"
     ],
     "ChildrenOrderedIds":
     [

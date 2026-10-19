@@ -1,0 +1,33 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Platforms.IronTeeth",
+    "Order": 100,
+    "NameLocKey": "ToolGroups.Platforms",
+    "Icon": "Buildings/Paths/Platform/PlatformIcon",
+    "FallbackGroup": false
+  },
+  "ParentToolGroupSpec": {
+	"ParentIds": ["Paths.IronTeeth"]
+  },
+  "ToolGroupChildrenSpec":
+  {
+    "DoNotIncludePlaceableToolGroup": true,
+    "ChildrenToolsTemplateNames":
+    [
+"MetalPlatform3x3.IronTeeth",
+    "MetalPlatform5x5.IronTeeth",
+    "Overhang2x1.IronTeeth",
+    "Overhang3x1.IronTeeth",
+    "Overhang4x1.IronTeeth",
+    "Overhang5x1.IronTeeth",
+    "Overhang6x1.IronTeeth",
+    "Platform.IronTeeth",
+    "DoublePlatform.IronTeeth",
+    "TriplePlatform.IronTeeth"
+    ],
+    "ChildrenOrderedIds":
+    [
+     
+    ]
+  }
+}
